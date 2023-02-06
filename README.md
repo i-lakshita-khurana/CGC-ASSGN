@@ -1,3 +1,3 @@
-# cgcassgn
+# CGC ASSGN
 
-#LINK: https://harsh-jindal-web.github.io/cgcassgn.github.io/
+Link : https://cgc-assgn.netlify.app/
